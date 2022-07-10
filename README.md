@@ -11,6 +11,6 @@ Toy Robot Test
 8. Exit command must be used to terminate the application
 
 To run the application:
-1. Download the repository as zip
+1. Clone the repository
 2. Open it in the VS22
 3. Buid the code and run it
